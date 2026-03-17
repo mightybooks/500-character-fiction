@@ -70,6 +70,10 @@ In this sense, it can be understood as a constrained narrative system rather tha
 - [Structural Characteristics of 500-character Fiction](./structure.md)  
 - [Narrative Method: Emotional Micro-Particle Diffusion Narrative Structure](./method.md)  
 
+### External Reference
+
+- Official archive: https://surimstudio.com/research/500-character-fiction
+
 ---
 
 ## Author
