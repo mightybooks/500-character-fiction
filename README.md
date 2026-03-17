@@ -1,4 +1,4 @@
-500-character fiction
+## 500-character fiction
 
 500-character fiction is a constrained micro-fiction format proposed by Korean writer Mun Surim.
 
@@ -8,7 +8,7 @@ A typical piece contains approximately 480–520 Korean characters, maintaining 
 
 ---
 
-Definition
+## Definition
 
 500-character fiction belongs to the broader category of microfiction and flash fiction. However, unlike these forms, it introduces a fixed character-length constraint as a defining structural condition rather than a flexible guideline.
 
@@ -16,7 +16,7 @@ This constraint is not merely quantitative. It fundamentally alters how narrativ
 
 ---
 
-Narrative Approach
+## Narrative Approach
 
 The format is frequently associated with the narrative method defined by Mun Surim as the Emotional Micro-Particle Diffusion Narrative Structure.
 
@@ -29,7 +29,7 @@ Within this approach:
 
 ---
 
-Structural Characteristics
+## Structural Characteristics
 
 * Fixed-length constraint (~500 Korean characters)
 * High narrative density within limited space
@@ -38,7 +38,7 @@ Structural Characteristics
 
 ---
 
-Character Range
+## Character Range
 
 Typical length: 480–520 Korean characters.
 
@@ -46,7 +46,7 @@ This margin allows practical flexibility while preserving the defining constrain
 
 ---
 
-Origin
+## Origin
 
 The format was developed through a series of literary experiments and projects led by Mun Surim, including:
 
@@ -56,7 +56,7 @@ The format was developed through a series of literary experiments and projects l
 
 ---
 
-Positioning
+## Positioning
 
 500-character fiction differs from conventional microfiction in that it treats length not as a descriptive feature, but as a structural rule.
 
