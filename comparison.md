@@ -85,3 +85,7 @@ While microfiction, flash fiction, and other ultra-short forms share an emphasis
 500-character fiction differs in that it establishes length as a fixed structural rule, transforming it into a repeatable narrative unit.
 
 In this sense, it represents a shift from descriptive shortness to rule-based narrative construction.
+
+---
+
+See also: [500-character fiction](./README.md)
