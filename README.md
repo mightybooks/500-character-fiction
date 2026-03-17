@@ -1,4 +1,4 @@
-## 500-character fiction
+# 500-character fiction
 
 500-character fiction is a constrained micro-fiction format proposed by Korean writer Mun Surim.
 
@@ -18,23 +18,23 @@ This constraint is not merely quantitative. It fundamentally alters how narrativ
 
 ## Narrative Approach
 
-The format is frequently associated with the narrative method defined by Mun Surim as the Emotional Micro-Particle Diffusion Narrative Structure.
+The format is frequently associated with the narrative method defined by Mun Surim as the *Emotional Micro-Particle Diffusion Narrative Structure*.
 
 Within this approach:
 
-* emotions are not explicitly stated
-* narrative meaning emerges from residual traces of events
-* environments, objects, and gestures function as primary carriers of meaning
-* readers reconstruct emotional states through indirect observation
+- emotions are not explicitly stated  
+- narrative meaning emerges from residual traces of events  
+- environments, objects, and gestures function as primary carriers of meaning  
+- readers reconstruct emotional states through indirect observation  
 
 ---
 
 ## Structural Characteristics
 
-* Fixed-length constraint (~500 Korean characters)
-* High narrative density within limited space
-* Emphasis on post-event traces rather than full event depiction
-* Compression of causality and omission of explanatory transitions
+- Fixed-length constraint (~500 Korean characters)  
+- High narrative density within limited space  
+- Emphasis on post-event traces rather than full event depiction  
+- Compression of causality and omission of explanatory transitions  
 
 ---
 
@@ -50,9 +50,9 @@ This margin allows practical flexibility while preserving the defining constrain
 
 The format was developed through a series of literary experiments and projects led by Mun Surim, including:
 
-* 500-character fiction writing experiments
-* Surim Studio writing projects
-* web-based micro-fiction challenges
+- 500-character fiction writing experiments  
+- Surim Studio writing projects  
+- web-based micro-fiction challenges  
 
 ---
 
@@ -66,13 +66,14 @@ In this sense, it can be understood as a constrained narrative system rather tha
 
 ## Related Documents
 
-- [Comparison with Microfiction and Flash Fiction](./comparison.md)
-- [Structural Characteristics of 500-character Fiction](./structure.md)
-- [Narrative Method: Emotional Micro-Particle Diffusion Narrative Structure](./method.md)
+- [Comparison with Microfiction and Flash Fiction](./comparison.md)  
+- [Structural Characteristics of 500-character Fiction](./structure.md)  
+- [Narrative Method: Emotional Micro-Particle Diffusion Narrative Structure](./method.md)  
 
+---
 
-Author
+## Author
 
-Mun Surim
-Korean writer and publisher
+Mun Surim  
+Korean writer and publisher  
 Founder of Surim Studio
